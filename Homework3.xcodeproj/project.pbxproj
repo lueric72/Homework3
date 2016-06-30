@@ -22,6 +22,7 @@
 		076907361D25356300AD7214 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		076907391D25356300AD7214 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0769073B1D25356300AD7214 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		076907411D25364B00AD7214 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		0769072E1D25356300AD7214 /* Homework3 */ = {
 			isa = PBXGroup;
 			children = (
+				076907411D25364B00AD7214 /* MyPlayground.playground */,
 				0769072F1D25356300AD7214 /* AppDelegate.swift */,
 				076907311D25356300AD7214 /* ViewController.swift */,
 				076907331D25356300AD7214 /* Main.storyboard */,
